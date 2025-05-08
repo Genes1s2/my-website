@@ -1,6 +1,4 @@
-import React from 'react'
 import NavBar from '../components/NavBar'
-import Pricing from '../components/Pricing'
 import PageFooter from '../components/Footer'
 import PricingHeader from '../components/PricingHeader'
 import PricingList from '../components/PricingList'
