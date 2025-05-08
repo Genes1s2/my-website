@@ -1,0 +1,56 @@
+/* layer */
+.section-layer::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.section-head {
+  background-image: url('./img/download_a_computer_desktop.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+/* blog header */
+
+.section-blog {
+  background-image: url('./img/CRM_POST.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+/* about header */
+
+.section-about {
+  background-image: url('./img/Master_in_Web_Development.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  background-position: center;
+  position: relative;
+}
+
+/* pricing header */
+
+.section-pricing {
+  background-image: url('./img/futuristic_blue_rise_up.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+/* contact header */
+
+.section-contact {
+  background-image: url('./img/email.jpeg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
