@@ -7,7 +7,6 @@ const MainBlogPost = () => {
                 <div className="mb-12">
                     <img
                         src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                        alt="Featured Post"
                         className="w-full h-96 object-cover rounded-lg"
                     />
                     <div className="mt-6">
@@ -30,7 +29,6 @@ const MainBlogPost = () => {
                     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
                         <img
                             src="https://images.unsplash.com/photo-1496128858413-b36217c2ce36?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                            alt="Blog Post 1"
                             className="w-full h-48 object-cover"
                         />
                         <div className="p-6">
@@ -51,7 +49,6 @@ const MainBlogPost = () => {
                     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
                         <img
                             src="https://images.unsplash.com/photo-1547586696-ea22b4d4235d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                            alt="Blog Post 2"
                             className="w-full h-48 object-cover"
                         />
                         <div className="p-6">
@@ -72,7 +69,6 @@ const MainBlogPost = () => {
                     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
                         <img
                             src="https://images.unsplash.com/photo-1499951360447-b19be8fe80f5?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                            alt="Blog Post 3"
                             className="w-full h-48 object-cover"
                         />
                         <div className="p-6">
@@ -93,7 +89,6 @@ const MainBlogPost = () => {
                     <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg overflow-hidden">
                         <img
                             src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
-                            alt="Blog Post 4"
                             className="w-full h-48 object-cover"
                         />
                         <div className="p-6">

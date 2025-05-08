@@ -15,7 +15,7 @@ const Articles = () => {
                                 <a href="/">Our first office</a>
                             </h2>
                             <p className="mb-4 text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-                            <a href="#" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
+                            <a href="/" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
                                 Read in 2 minutes
                             </a>
                         </article>
@@ -27,7 +27,7 @@ const Articles = () => {
                                 <a href="/">Enterprise design tips</a>
                             </h2>
                             <p className="mb-4  text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-                            <a href="#" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
+                            <a href="/" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
                                 Read in 12 minutes
                             </a>
                         </article>
@@ -39,7 +39,7 @@ const Articles = () => {
                                 <a href="/">We partnered with Google</a>
                             </h2>
                             <p className="mb-4  text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-                            <a href="#" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
+                            <a href="/" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
                                 Read in 8 minutes
                             </a>
                         </article>
@@ -51,7 +51,7 @@ const Articles = () => {
                                 <a href="/">Our first project with React</a>
                             </h2>
                             <p className="mb-4  text-gray-500 dark:text-gray-400">Over the past year, Volosoft has undergone many changes! After months of preparation.</p>
-                            <a href="#" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
+                            <a href="/" className="inline-flex items-center font-medium underline underline-offset-4 text-blue-600 dark:text-blue-500 hover:no-underline">
                                 Read in 4 minutes
                             </a>
                         </article>

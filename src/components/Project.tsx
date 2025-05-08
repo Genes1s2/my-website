@@ -26,7 +26,7 @@ const Project = () => {
         //                     <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
         //                         Flowbite helps you connect with friends, family and communities of people who share your interests.
         //                     </p>
-        //                     <a href="#" title=""
+        //                     <a href="/" title=""
         //                         className="text-white bg-blue-700 justify-center hover:bg-blue-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
         //                         role="button">
         //                         View case study
@@ -50,7 +50,7 @@ const Project = () => {
         //                     <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
         //                         Flowbite helps you connect with friends, family and communities of people who share your interests.
         //                     </p>
-        //                     <a href="#" title=""
+        //                     <a href="/" title=""
         //                         className="text-white bg-blue-700 justify-center hover:bg-blue-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
         //                         role="button">
         //                         View case study
@@ -74,7 +74,7 @@ const Project = () => {
         //                     <p className="text-lg font-normal text-gray-500 dark:text-gray-400">
         //                         Flowbite helps you connect with friends, family and communities of people who share your interests.
         //                     </p>
-        //                     <a href="#" title=""
+        //                     <a href="/" title=""
         //                         className="text-white bg-blue-700 justify-center hover:bg-blue-800 inline-flex items-center  focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
         //                         role="button">
         //                         View case study
@@ -115,7 +115,7 @@ const Project = () => {
           Nous avons conçu et développé un site Web moderne et réactif pour Alphabet Inc. afin de présenter leurs projets et services innovants.
           </p>
           <a
-            href="#"
+            href="/"
             className="text-white bg-blue-700 justify-center hover:bg-blue-800 inline-flex items-center focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 transition-colors duration-300"
             role="button"
           >
@@ -148,7 +148,7 @@ const Project = () => {
           Nous avons construit un système de gestion robuste pour Microsoft Corp. afin de rationaliser ses opérations et d'améliorer son efficacité.
           </p>
           <a
-            href="#"
+            href="/"
             className="text-white bg-blue-700 justify-center hover:bg-blue-800 inline-flex items-center focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 transition-colors duration-300"
             role="button"
           >
@@ -181,7 +181,7 @@ const Project = () => {
           Nous avons créé un superbe logo pour Adobe Inc. qui reflète leur identité de marque et résonne auprès de leur public.
           </p>
           <a
-            href="#"
+            href="/"
             className="text-white bg-blue-700 justify-center hover:bg-blue-800 inline-flex items-center focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800 transition-colors duration-300"
             role="button"
           >

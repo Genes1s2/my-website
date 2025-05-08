@@ -10,7 +10,7 @@ const SignUpNewsLetter = () => {
                     <div className="mx-auto max-w-screen-md sm:text-center">
                         <h2 className="text-2xl font-bold mb-4 text-gray-900 dark:text-white">Inscrivez-vous à notre newsletter</h2>
                         <p className="text-gray-500 dark:text-gray-400 mx-auto mb-8 max-w-2xl md:mb-8">Restez au courant de l'avancement de la feuille de route, des annonces et des remises exclusives, n'hésitez pas à vous inscrire avec votre e-mail.</p>
-                        <form action="#">
+                        <form action="/">
                             <div className="items-center mx-auto mb-3 space-y-4 max-w-screen-sm sm:flex sm:space-y-0">
                                 <div className="relative w-full">
                                     <label htmlFor="email" className="hidden mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">Adresse email</label>

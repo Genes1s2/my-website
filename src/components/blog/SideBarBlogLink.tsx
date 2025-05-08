@@ -9,7 +9,7 @@ const SideBarBlogLink = () => {
                 <ul className="space-y-2">
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Technology
@@ -17,7 +17,7 @@ const SideBarBlogLink = () => {
                     </li>
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Design
@@ -25,7 +25,7 @@ const SideBarBlogLink = () => {
                     </li>
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Business
@@ -33,7 +33,7 @@ const SideBarBlogLink = () => {
                     </li>
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Lifestyle
@@ -48,7 +48,7 @@ const SideBarBlogLink = () => {
                 <ul className="space-y-4">
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Blog Post Title 1
@@ -56,7 +56,7 @@ const SideBarBlogLink = () => {
                     </li>
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Blog Post Title 2
@@ -64,7 +64,7 @@ const SideBarBlogLink = () => {
                     </li>
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Blog Post Title 3
@@ -72,7 +72,7 @@ const SideBarBlogLink = () => {
                     </li>
                     <li>
                         <a
-                            href="#"
+                            href="/"
                             className="text-gray-600 dark:text-gray-300 hover:text-blue-500 dark:hover:text-blue-400 transition-colors duration-300"
                         >
                             Blog Post Title 4
